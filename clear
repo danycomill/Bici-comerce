@@ -1,0 +1,35 @@
+[33mcommit 9f455bc4c5a6c348bcc83bb55f17cbb869572230[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: danycomill <daniel.comi2604mail.com>
+Date:   Tue Oct 24 12:38:56 2023 -0500
+
+    En app.js se crea una funcion para filtrar bicis por el precio que se le diga
+
+[33mcommit 03c3c44e5aa557a7caf857cfdc21edda45882bd7[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: danycomill <daniel.comi2604mail.com>
+Date:   Mon Oct 23 10:50:40 2023 -0500
+
+    Se agrega la funcionalidad: encontrarBiciPorId
+
+[33mcommit 19f509f670adea70c4b9da031a87eca26cdd5044[m
+Author: danycomill <daniel.comi2604mail.com>
+Date:   Mon Oct 23 10:35:03 2023 -0500
+
+    En app.js se importa el archivo con la data y se crea un objeto para la app
+
+[33mcommit 4eba30f1e14aac1d2bc8858068688470eb529445[m
+Author: danycomill <daniel.comi2604mail.com>
+Date:   Sun Oct 22 10:48:35 2023 -0500
+
+    Se modifica un .js  a un .json
+
+[33mcommit 14dfab2faf16b328417edfb62fc5d2dc1d1b112a[m
+Author: danycomill <daniel.comi2604mail.com>
+Date:   Sun Oct 22 10:42:15 2023 -0500
+
+    Agrege un console.log
+
+[33mcommit e7e4d750a0bab9e450b4ba1233b135f97a784792[m
+Author: danycomill <daniel.comi2604mail.com>
+Date:   Sun Oct 22 10:37:37 2023 -0500
+
+    Se crean objetos en el arvicho con el mismo nombre... objetos bicicletas
